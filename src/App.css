@@ -1,0 +1,17 @@
+* {
+/* background-color: #222 !important;  */
+/* color: #222 !important; */
+}
+
+h1 {
+/* color: #00f !important;  */
+}
+
+.text-color-primary {
+    color: rgb(80, 47, 10) !important;
+}
+
+.reveal-from-right *{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  animation: 3s custom;
+}
