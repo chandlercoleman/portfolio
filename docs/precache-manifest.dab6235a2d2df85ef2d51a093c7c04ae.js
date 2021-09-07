@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31cce7abb219aa8b1ab448bea889f171",
+    "revision": "fbc0853bd1a52ad213bfb11b1aadd620",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "10738b1000bead9b5d31",
-    "url": "/portfolio/static/css/main.1a5b2a1e.chunk.css"
+    "revision": "5a479edb66e778260cbe",
+    "url": "/portfolio/static/css/main.2791331f.chunk.css"
   },
   {
     "revision": "3275c2a99c5680dbdd9b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10738b1000bead9b5d31",
-    "url": "/portfolio/static/js/main.930c88cb.chunk.js"
+    "revision": "5a479edb66e778260cbe",
+    "url": "/portfolio/static/js/main.8e3e9594.chunk.js"
   },
   {
     "revision": "62dea3017bd2ba8df9d9",
@@ -42,14 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26c04f15ebeac3dbf740958ef5034e9a",
     "url": "/portfolio/static/media/feature-tile-icon-04.26c04f15.svg"
-  },
-  {
-    "revision": "26c04f15ebeac3dbf740958ef5034e9a",
-    "url": "/portfolio/static/media/feature-tile-icon-05.26c04f15.svg"
-  },
-  {
-    "revision": "26c04f15ebeac3dbf740958ef5034e9a",
-    "url": "/portfolio/static/media/feature-tile-icon-06.26c04f15.svg"
   },
   {
     "revision": "f207ea77c927dc1b1dd3ada232b7eb3b",

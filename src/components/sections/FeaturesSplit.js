@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: '',
+    paragraph: 'After college Im not exactly sure what I want to do. Probably move somewhere new, possibly Oregon and fingers crossed I find a job!'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Selci Hopkins
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  I currently live off campus for the first time in my college career. Selci and I live in a house together with her dog Addie (not pictured). So if you see her around campus make sure you say hi!
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Family
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  My family are some of the most important people in my life. I have two older brothers and one younger brother, so it's always loud in our house!
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
+                  Spend Some Time Outside
+                  </h3> 
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  I took this picture at Island Park right here in Winfield! I love spending time in nature, going on walks, taking photographs and really anything else.
                   </p>
               </div>
               <div className={
