@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Art Gallery',
-    paragraph: 'Here are some of my favorite pieces I have made over the years'
+    paragraph: 'Here are some of my favorite pieces I have made over the years.'
   };
 
   return (
