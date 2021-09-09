@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: '',
+    title: 'Future Plans?',
     paragraph: 'After college Im not exactly sure what I want to do. Probably move somewhere new, possibly Oregon and fingers crossed I find a job!'
   };
 

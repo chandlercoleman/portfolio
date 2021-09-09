@@ -12,7 +12,7 @@ h1 {
 }
 
 .reveal-from-right *{
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
   animation: 3s custom;
   background-image: url ('/images/plant.jpg');
 }
@@ -21,11 +21,13 @@ p.text-sm {
   background-color:rgb(80, 47, 10);
   color:rgb(188, 165, 143);
   border: 13px solid rgb(156, 79, 79);
-  padding: 15px;
+  padding: 10px;
   border-radius: 5px;
   font-family: initial;
-  font-size: 3vmax ;
-  width: 300px;
+  font-size: 2em;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  width: 345px;
   height: 200px; 
   transform: rotate(360deg);
   /* background-image: url('/images/plant.jpg'); */
@@ -38,27 +40,32 @@ h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
- @keyframes custom { 
-   100% {
-     /* transform: rotate(360deg); */
-  }
-}
 
 .tiles-wrap {
   background-color: rgb(160, 101, 53);
 }
-/* .testimonial-item-content  { */
-  background-image: url ('portfolio/images/plant.jpg') !important;
-  background-size: contain;
-  background-color: #f0f; 
-
 
 .m-0 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
-.testimonial-item-content {
-  background-color: rgb(20, 15, 6);
+
+.tiles-item:nth-of-type(1) .testimonial-item-content p {
+  background-color: transparent;
+  border: transparent;
   background-image: url('/portfolio/images/art3.jpg') !important;
+  background-size: cover; 
+  background-position: center; 
   /* transform: rotate(360deg); */
 
+}
+
+.tiles-item:nth-of-type(2) .testimonial-item-content p {
+  background-image: url('/portfolio/images/art2.jpg') !important; 
+  background-color: transparent;
+  border: transparent;
+  
+}
+.tiles-item:nth-of-type(3) .testimonial-item-content p {
+  background-color: transparent;
+  border: transparent;
 }

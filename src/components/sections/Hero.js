@@ -90,8 +90,8 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={570}
+                height={600} />
             </a>
           </div>
           <Modal
