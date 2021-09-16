@@ -40,15 +40,12 @@ h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
 .tiles-wrap {
   background-color: rgb(160, 101, 53);
 }
-
-.m-0 {
-  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+.acorn {
+  display: none !important;
 }
-
 .tiles-item:nth-of-type(1) .testimonial-item-content p {
   background-color: transparent;
   border: transparent;
@@ -68,4 +65,28 @@ h2 {
 .tiles-item:nth-of-type(3) .testimonial-item-content p {
   background-color: transparent;
   border: transparent;
+}
+.chandler-is-awesome {
+  /* width: 33vw; */
+  height:100vh;
+
+  color: rgb(1, 27, 1);
+  background-color: rgb(158, 111, 111);
+  
+}
+.cool-c {
+  background-color: rgb(245, 212, 225);
+  font-family: 'Times New Roman', Times, serif;
+}
+.last-minute {
+   background-color: rgb(243, 183, 183);
+}
+.zendaya {
+  background-color: rgb(248, 152, 152);
+}
+.ticket {
+  background-color: lightcoral;
+}
+.play {
+  background-color: rgb(241, 99, 99);
 }

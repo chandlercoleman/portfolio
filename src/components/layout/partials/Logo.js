@@ -23,6 +23,7 @@ const Logo = ({
           <Image
             src={require('./../../../assets/images/logo.svg')}
             alt="Open"
+            className= "acorn"
             width={32}
             height={32} />
         </Link>
