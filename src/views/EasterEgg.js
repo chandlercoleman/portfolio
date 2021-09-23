@@ -4,13 +4,12 @@ import { Link } from 'react-router-dom';
 const EasterEgg = () => {
     return (
         <div class= "chandler-is-awesome">
-            <div class= "nav">
+            <u class= "nav">
                 Welcome to my hidden page... its CONFESSION time!
                 <Link to= "/portfolio">
                     Home 
                 </Link>
-               
-            </div>
+            </u>
         
             <div class= "cool-c">
                 I dont know what im doing 70% of the time in here.
@@ -27,7 +26,6 @@ const EasterEgg = () => {
                                  Taking a picture with Shaquille O'Neal is on my bucket list.
                              </div>
                              <div class= "img-star"></div>
-                             <div class= "img-me"></div>
                              <div class= "fear">
                                  Im afraid of alligators.
                              </div>
