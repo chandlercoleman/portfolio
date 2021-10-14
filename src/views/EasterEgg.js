@@ -25,13 +25,14 @@ const EasterEgg = () => {
                              <div class= "play" id="penguin">
                                  Taking a picture with Shaquille O'Neal is on my bucket list.
                              </div>
-                             <div class= "img-star"></div>
+                            
                              <div class= "fear">
                                  Im afraid of alligators.
                              </div>
                              <div class="sing">
                                  I think I could be famous right now if I was good at singing.
                              </div>
+                             <div class= "img-star"></div>
                          </div>
                     </div>
                 </div>

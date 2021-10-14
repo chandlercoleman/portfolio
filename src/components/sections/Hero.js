@@ -72,8 +72,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://www.instagram.com/coleman.chandler/">
                     ig: @chandler_coleman 
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    snap: @chan_coleman
+                  <Button tag="a" color="dark" wideMobile href="https://twitter.com/chandleridk">
+                    twitter: @chandleridk
                     </Button>
                 </ButtonGroup>
               </div>

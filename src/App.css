@@ -1,11 +1,4 @@
-* {
-/* background-color: #222 !important;  */
-/* color: #222 !important; */
-}
 
-h1 {
-/* color: #00f !important;  */
-}
 
 .text-color-primary {
     color: rgb(80, 47, 10) !important;
@@ -74,7 +67,7 @@ h2 {
   height:100vh;
 
   color: rgb(1, 27, 1);
-  background-color: rgb(158, 111, 111);
+  background-color: rgb(188, 165, 143);
   border: 75px solid; 
   border-image: url('/portfolio/images/cow.png')250 fill;
 }
@@ -114,4 +107,98 @@ h2 {
 }
 .nav {
   background-color: rgb(245, 238, 241) !important;
+}
+
+.banner {
+  height: 33.33vh;
+  font-size: 35px;
+  color: bisque;
+  font-weight: 900;
+  text-align: center;
+  background-color: #b6743f;
+  background-image: url('/portfolio/images/background.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  /* background-color: rgb(99, 76, 64); */
+  font-size: 30px;
+  text-align: center;
+  color: beige;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-nav {
+  display: flex; 
+  justify-content: space-evenly;
+}
+
+.childhood {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.email {
+  background-size: 30%;
+}
+.questions {
+  font-size: 25px;
+  text-align: center;
+  color: beige;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.art-pic {
+  height: 25%;
+  width: 30%;
+}
+.fort-worth {
+  display: flex;
+  height: 25%;
+  width: 30%;
+}
+
+.content {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.caption {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+.caption-two {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+.caption-three {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+.youtuber {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+.photography {
+  height: 30%;
+  width: 30%;
+  align-items: center;
+}
+.nature {
+  height: 30%;
+  width: 30%;
+}
+.painting {
+  height: 30%;
+  width: 30%;
 }

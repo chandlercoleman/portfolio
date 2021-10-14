@@ -67,7 +67,7 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high"></span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low"> / Butterfly Collection </span>
                   <span className="testimonial-item-link">
             
                     <a href="#0"></a>
@@ -85,7 +85,7 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high"></span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low"> / Field of Sunflowers</span>
                   <span className="testimonial-item-link">
                     <a href="#0"></a>
                   </span>
@@ -102,7 +102,7 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high"></span>
-                  <span className="text-color-low"> / </span>
+                  <span className="text-color-low"> / Curb Appeal </span>
                   <span className="testimonial-item-link">
                     <a href="#0"></a>
                   </span>
