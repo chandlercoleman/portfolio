@@ -152,13 +152,20 @@ h2 {
 }
 
 .art-pic {
-  height: 25%;
-  width: 30%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  object-fit: contain;
+
 }
 .fort-worth {
+  height: 500px;
   display: flex;
-  height: 25%;
-  width: 30%;
+  align-items: center;
+  justify-content: center;
+
+  object-fit: contain;
 }
 
 .content {
@@ -173,32 +180,51 @@ h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
   text-align: center;
+  background-color: beige;
 }
 .caption-two {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
   text-align: center;
+  background-color: beige;
 }
 .caption-three {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
   text-align: center;
+  background-color: beige;
 }
 .youtuber {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
   text-align: center;
+  background-color: beige;
 }
 .photography {
-  height: 30%;
-  width: 30%;
+  display: flex;
   align-items: center;
+  justify-content: center;
+
+  border: 4rem solid transparent;
+  border-width: 0 75px 75px 75px;
+  object-fit: contain;
 }
+
 .nature {
-  height: 30%;
-  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 7rem solid transparent;
+  border-width: 0 140px 140px 140px;
+  object-fit: contain;
 }
 .painting {
-  height: 30%;
-  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 3rem solid transparent;
+  border-width: 0 75px 75px 75px;
+  object-fit: contain;
 }

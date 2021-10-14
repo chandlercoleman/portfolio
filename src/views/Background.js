@@ -20,7 +20,9 @@ const Background = () => {
         </div>
         
         <img className= "art-pic" src={Art} />
+        <br/>
         <img className= "fort-worth" src={FW} />
+
         <Footer/>
         </>
     );

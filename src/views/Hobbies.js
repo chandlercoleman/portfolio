@@ -16,7 +16,7 @@ const Hobbies = () => {
             </Banner>
             <div ClassName= "content"> 
                 <div className="youtuber"> I went through a phase where I wanted to be a Youtuber. </div>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/63CjNO6bV4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="800" height="500" src="https://www.youtube.com/embed/63CjNO6bV4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br/>
                 <div className="caption">
                     I like to take pictures sometimes.
